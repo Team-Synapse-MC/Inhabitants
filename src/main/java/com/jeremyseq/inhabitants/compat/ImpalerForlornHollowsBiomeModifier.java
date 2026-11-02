@@ -33,7 +33,7 @@ public class ImpalerForlornHollowsBiomeModifier implements BiomeModifier {
                     MobCategory.MONSTER,
                     new MobSpawnSettings.SpawnerData(
                             ModEntities.IMPALER.get(),
-                            30,
+                            10,
                             1,
                             1
                     )
